@@ -1,0 +1,53 @@
+CancerType,Area,Race,Sex,Rate,lci,uci,Count,Population
+All HPV-associated Cancers,Kentucky,All Races,Female,19.3,17.5,21.1,484,2251071
+All HPV-associated Cancers,Mississippi,All Races,Female,16.7,14.8,18.9,284,1538110
+All HPV-associated Cancers,Oklahoma,All Races,Female,16.7,14.9,18.6,351,1978336
+All HPV-associated Cancers,West Virginia,All Races,Female,16.4,14,19.1,184,924349
+All HPV-associated Cancers,Louisiana,All Races,Female,16.1,14.6,17.8,422,2393949
+All HPV-associated Cancers,Montana,All Races,Female,16,12.8,19.7,97,515714
+All HPV-associated Cancers,Arkansas,All Races,Female,15.9,14,18,274,1520120
+All HPV-associated Cancers,Florida,All Races,Female,15.9,15.1,16.6,2044,10558243
+All HPV-associated Cancers,Tennessee,All Races,Female,15.9,14.7,17.3,623,3406416
+All HPV-associated Cancers,Indiana,All Races,Female,15.8,14.5,17.2,589,3363950
+All HPV-associated Cancers,Missouri,All Races,Female,15.7,14.4,17.1,550,3100637
+All HPV-associated Cancers,Delaware,All Races,Female,15.6,12.4,19.4,91,491686
+All HPV-associated Cancers,Ohio,All Races,Female,15.3,14.3,16.3,1033,5929048
+All HPV-associated Cancers,Alabama,All Races,Female,15.2,13.7,16.8,427,2506356
+All HPV-associated Cancers,Iowa,All Races,Female,15.2,13.4,17.2,284,1574011
+All HPV-associated Cancers,Maine,All Races,Female,15.1,12.5,18.1,135,678668
+All HPV-associated Cancers,Illinois,All Races,Female,14.9,14,15.8,1109,6528625
+All HPV-associated Cancers,Pennsylvania,All Races,Female,14.2,13.4,15.1,1114,6526680
+All HPV-associated Cancers,South Carolina,All Races,Female,14.2,12.8,15.6,421,2551882
+All HPV-associated Cancers,North Carolina,All Races,Female,14.1,13.2,15.2,848,5210651
+All HPV-associated Cancers,Georgia,All Races,Female,14,13.1,15.1,807,5291949
+All HPV-associated Cancers,Nevada,All Races,Female,13.9,12.1,15.9,221,1464049
+All HPV-associated Cancers,North Dakota,All Races,Female,13.9,10.3,18.4,54,367612
+All HPV-associated Cancers,Texas,All Races,Female,13.8,13.2,14.4,1971,14043687
+All HPV-associated Cancers,United States,All Races,Female,13.8,13.6,13.9,25628,164162118
+All HPV-associated Cancers,New Mexico,All Races,Female,13.6,11.4,16,154,1052719
+All HPV-associated Cancers,South Dakota,All Races,Female,13.6,10.3,17.5,66,427144
+All HPV-associated Cancers,Idaho,All Races,Female,13.5,11.1,16.3,118,838347
+All HPV-associated Cancers,Michigan,All Races,Female,13.4,12.4,14.4,787,5045973
+All HPV-associated Cancers,Alaska,All Races,Female,13.3,9.6,17.8,48,353354
+All HPV-associated Cancers,New York,All Races,Female,13.3,12.7,14,1601,10207950
+All HPV-associated Cancers,Rhode Island,All Races,Female,13.3,10.6,16.5,92,543761
+All HPV-associated Cancers,Wisconsin,All Races,Female,13.3,12,14.7,440,2901901
+All HPV-associated Cancers,New Jersey,All Races,Female,13.1,12.2,14.2,712,4596785
+All HPV-associated Cancers,Kansas,All Races,Female,13,11.2,14.9,214,1459018
+All HPV-associated Cancers,Oregon,All Races,Female,12.5,11.1,14,315,2061736
+All HPV-associated Cancers,Connecticut,All Races,Female,12.4,10.9,14.1,272,1837125
+All HPV-associated Cancers,Washington,All Races,Female,12.4,11.3,13.6,521,3641693
+All HPV-associated Cancers,California,All Races,Female,12.3,11.8,12.8,2657,19773533
+All HPV-associated Cancers,Maryland,All Races,Female,12.3,11.1,13.5,442,3104357
+All HPV-associated Cancers,Colorado,All Races,Female,12.2,10.9,13.5,367,2748701
+All HPV-associated Cancers,Minnesota,All Races,Female,11.8,10.5,13.1,369,2774919
+All HPV-associated Cancers,Nebraska,All Races,Female,11.6,9.6,13.9,129,956386
+All HPV-associated Cancers,Vermont,All Races,Female,11.5,8.3,15.6,49,315377
+All HPV-associated Cancers,Virginia,All Races,Female,11.5,10.6,12.6,572,4275622
+All HPV-associated Cancers,Massachusetts,All Races,Female,11.4,10.4,12.6,484,3512630
+All HPV-associated Cancers,District of Columbia,All Races,Female,11.2,8.1,15.2,45,359539
+All HPV-associated Cancers,New Hampshire,All Races,Female,11.2,9,13.8,102,674116
+All HPV-associated Cancers,Wyoming,All Races,Female,10.9,7.6,15.3,39,286246
+All HPV-associated Cancers,Arizona,All Races,Female,10.1,9.1,11.2,397,3474384
+All HPV-associated Cancers,Utah,All Races,Female,9.9,8.3,11.7,140,1512118
+All HPV-associated Cancers,Hawaii,All Races,Female,9.6,7.5,12.1,79,710885

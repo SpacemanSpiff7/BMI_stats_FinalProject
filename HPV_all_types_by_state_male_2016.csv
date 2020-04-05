@@ -1,0 +1,53 @@
+CancerType,Area,Race,Sex,Rate,lci,uci,Count,Population
+All HPV-associated Cancers,Kentucky,All Races,Male,14.1,12.7,15.7,374,2185042
+All HPV-associated Cancers,Arkansas,All Races,Male,13.7,12,15.6,240,1468111
+All HPV-associated Cancers,Florida,All Races,Male,13.5,12.8,14.1,1809,10098346
+All HPV-associated Cancers,North Dakota,All Races,Male,13.5,10.1,17.7,56,387936
+All HPV-associated Cancers,Delaware,All Races,Male,13.1,10.3,16.5,77,461012
+All HPV-associated Cancers,Louisiana,All Races,Male,13,11.6,14.6,334,2292208
+All HPV-associated Cancers,North Carolina,All Races,Male,12.8,11.9,13.8,750,4946038
+All HPV-associated Cancers,Maine,All Races,Male,12.7,10.4,15.3,122,651564
+All HPV-associated Cancers,Tennessee,All Races,Male,12.7,11.6,14,497,3242988
+All HPV-associated Cancers,West Virginia,All Races,Male,12.7,10.7,15,153,904288
+All HPV-associated Cancers,Georgia,All Races,Male,12.6,11.6,13.6,686,5021671
+All HPV-associated Cancers,Mississippi,All Races,Male,12.6,10.9,14.5,210,1447305
+All HPV-associated Cancers,Indiana,All Races,Male,12.4,11.3,13.6,471,3270057
+All HPV-associated Cancers,Missouri,All Races,Male,12.4,11.3,13.7,453,2990539
+All HPV-associated Cancers,South Carolina,All Races,Male,12.4,11.2,13.8,370,2407940
+All HPV-associated Cancers,New Hampshire,All Races,Male,12.2,9.9,14.9,107,660899
+All HPV-associated Cancers,District of Columbia,All Races,Male,12,8.3,16.8,36,324797
+All HPV-associated Cancers,Oregon,All Races,Male,11.8,10.5,13.3,298,2024253
+All HPV-associated Cancers,Alabama,All Races,Male,11.6,10.4,13,332,2354189
+All HPV-associated Cancers,Illinois,All Races,Male,11.2,10.4,12,818,6307101
+All HPV-associated Cancers,Ohio,All Races,Male,11.2,10.4,12,791,5693506
+All HPV-associated Cancers,Washington,All Races,Male,11.2,10.2,12.3,475,3639241
+All HPV-associated Cancers,Pennsylvania,All Races,Male,11.1,10.3,11.9,894,6260405
+All HPV-associated Cancers,Michigan,All Races,Male,11,10.2,11.9,665,4887472
+All HPV-associated Cancers,United States,All Races,Male,11,10.8,11.1,20479,159243817
+All HPV-associated Cancers,Kansas,All Races,Male,10.9,9.3,12.7,179,1448713
+All HPV-associated Cancers,Nevada,All Races,Male,10.9,9.3,12.6,181,1475205
+All HPV-associated Cancers,Connecticut,All Races,Male,10.7,9.3,12.2,237,1750560
+All HPV-associated Cancers,Iowa,All Races,Male,10.7,9.2,12.3,198,1556858
+All HPV-associated Cancers,Oklahoma,All Races,Male,10.7,9.3,12.2,229,1942871
+All HPV-associated Cancers,Maryland,All Races,Male,10.6,9.5,11.8,358,2920395
+All HPV-associated Cancers,Virginia,All Races,Male,10.6,9.7,11.6,513,4138758
+All HPV-associated Cancers,New York,All Races,Male,10.4,9.8,11,1175,9628336
+All HPV-associated Cancers,South Dakota,All Races,Male,10.4,7.6,13.8,51,434398
+All HPV-associated Cancers,Massachusetts,All Races,Male,10.3,9.3,11.4,422,3311091
+All HPV-associated Cancers,Vermont,All Races,Male,10.3,7.2,14.3,41,307977
+All HPV-associated Cancers,Idaho,All Races,Male,10.1,8.1,12.4,98,841679
+All HPV-associated Cancers,Montana,All Races,Male,10,7.6,12.8,68,522942
+All HPV-associated Cancers,Colorado,All Races,Male,9.9,8.8,11.1,305,2781404
+All HPV-associated Cancers,Nebraska,All Races,Male,9.9,8,12,107,951217
+All HPV-associated Cancers,Minnesota,All Races,Male,9.8,8.7,11,324,2750131
+All HPV-associated Cancers,New Jersey,All Races,Male,9.8,9,10.7,524,4381631
+All HPV-associated Cancers,Texas,All Races,Male,9.7,9.2,10.2,1351,13861175
+All HPV-associated Cancers,Wisconsin,All Races,Male,9.7,8.7,10.8,353,2871016
+All HPV-associated Cancers,Wyoming,All Races,Male,9.6,6.6,13.6,36,298664
+All HPV-associated Cancers,California,All Races,Male,9.5,9,9.9,1986,19522943
+All HPV-associated Cancers,Alaska,All Races,Male,9.3,6.5,12.8,42,388168
+All HPV-associated Cancers,Rhode Island,All Races,Male,8.9,6.7,11.6,60,513805
+All HPV-associated Cancers,Arizona,All Races,Male,8.5,7.7,9.5,349,3434258
+All HPV-associated Cancers,Hawaii,All Races,Male,8,6.2,10.2,73,717798
+All HPV-associated Cancers,Utah,All Races,Male,7.9,6.4,9.6,107,1532203
+All HPV-associated Cancers,New Mexico,All Races,Male,7.3,5.9,9.1,94,1032713
