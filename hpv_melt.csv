@@ -1,0 +1,325 @@
+State,vaccine,proportion,error
+Connecticut,gte1_HPV_fem,70.9,8.2
+Maine,gte1_HPV_fem,66.0,8.3
+Massachusetts,gte1_HPV_fem,73.5,8.6
+New Hampshire,gte1_HPV_fem,74.2,8.8
+Rhode Island,gte1_HPV_fem,87.9,4.9
+Vermont,gte1_HPV_fem,68.7,8.1
+New Jersey,gte1_HPV_fem,69.0,7.8
+New York,gte1_HPV_fem,62.3,6.4
+Delaware,gte1_HPV_fem,67.6,8.4
+District of Columbia,gte1_HPV_fem,76.5,7.7
+Maryland,gte1_HPV_fem,66.0,9.0
+Pennsylvania,gte1_HPV_fem,62.2,7.7
+Virginia,gte1_HPV_fem,61.2,11.1
+West Virginia,gte1_HPV_fem,62.0,8.6
+Alabama,gte1_HPV_fem,57.7,9.2
+Florida,gte1_HPV_fem,62.5,9.6
+Georgia,gte1_HPV_fem,54.4,9.5
+Kentucky,gte1_HPV_fem,57.4,8.6
+Mississippi,gte1_HPV_fem,52.4,8.0
+North Carolina,gte1_HPV_fem,65.7,8.5
+South Carolina,gte1_HPV_fem,53.7,9.0
+Tennessee,gte1_HPV_fem,59.7,8.7
+Illinois,gte1_HPV_fem,62.0,5.9
+Indiana,gte1_HPV_fem,53.7,9.0
+Michigan,gte1_HPV_fem,67.6,8.3
+Minnesota,gte1_HPV_fem,65.5,8.8
+Ohio,gte1_HPV_fem,61.0,9.9
+Wisconsin,gte1_HPV_fem,60.5,8.7
+Arkansas,gte1_HPV_fem,63.5,8.4
+Louisiana,gte1_HPV_fem,60.3,8.6
+New Mexico,gte1_HPV_fem,66.7,7.6
+Oklahoma,gte1_HPV_fem,58.1,10.0
+Texas,gte1_HPV_fem,60.1,5.1
+Iowa,gte1_HPV_fem,66.7,8.0
+Kansas,gte1_HPV_fem,50.9,8.8
+Missouri,gte1_HPV_fem,59.3,10.0
+Nebraska,gte1_HPV_fem,67.3,7.9
+Colorado,gte1_HPV_fem,65.3,8.2
+Montana,gte1_HPV_fem,55.0,8.5
+North Dakota,gte1_HPV_fem,70.5,8.2
+South Dakota,gte1_HPV_fem,53.2,9.1
+Utah,gte1_HPV_fem,47.8,9.4
+Wyoming,gte1_HPV_fem,47.7,9.6
+Arizona,gte1_HPV_fem,68.3,7.4
+California,gte1_HPV_fem,66.7,9.6
+Hawaii,gte1_HPV_fem,71.3,8.0
+Nevada,gte1_HPV_fem,72.0,7.8
+Alaska,gte1_HPV_fem,57.0,8.7
+Idaho,gte1_HPV_fem,57.3,8.9
+Oregon,gte1_HPV_fem,70.0,8.1
+Washington,gte1_HPV_fem,65.8,8.1
+Guam,gte1_HPV_fem,68.9,7.8
+Puerto Rico,gte1_HPV_fem,77.4,7.8
+U.S. Virgin Islands,gte1_HPV_fem,40.4,7.7
+Connecticut,gte2_HPV_fem,64.3,8.7
+Maine,gte2_HPV_fem,53.9,8.7
+Massachusetts,gte2_HPV_fem,63.0,9.5
+New Hampshire,gte2_HPV_fem,59.7,10.0
+Rhode Island,gte2_HPV_fem,77.9,6.7
+Vermont,gte2_HPV_fem,59.1,8.3
+New Jersey,gte2_HPV_fem,56.3,8.6
+New York,gte2_HPV_fem,56.4,6.5
+Delaware,gte2_HPV_fem,60.9,8.9
+District of Columbia,gte2_HPV_fem,67.5,8.7
+Maryland,gte2_HPV_fem,61.7,9.1
+Pennsylvania,gte2_HPV_fem,56.4,7.7
+Virginia,gte2_HPV_fem,43.9,11.4
+West Virginia,gte2_HPV_fem,49.7,8.8
+Alabama,gte2_HPV_fem,50.4,9.3
+Florida,gte2_HPV_fem,44.6,9.7
+Georgia,gte2_HPV_fem,38.7,8.9
+Kentucky,gte2_HPV_fem,42.7,8.7
+Mississippi,gte2_HPV_fem,37.2,7.7
+North Carolina,gte2_HPV_fem,53.5,8.9
+South Carolina,gte2_HPV_fem,43.3,9.0
+Tennessee,gte2_HPV_fem,46.7,9.0
+Illinois,gte2_HPV_fem,52.0,6.1
+Indiana,gte2_HPV_fem,43.1,8.8
+Michigan,gte2_HPV_fem,56.9,8.9
+Minnesota,gte2_HPV_fem,51.3,8.9
+Ohio,gte2_HPV_fem,47.8,9.9
+Wisconsin,gte2_HPV_fem,53.2,8.9
+Arkansas,gte2_HPV_fem,49.4,8.9
+Louisiana,gte2_HPV_fem,53.3,8.9
+New Mexico,gte2_HPV_fem,55.6,7.8
+Oklahoma,gte2_HPV_fem,43.4,9.9
+Texas,gte2_HPV_fem,50.4,5.2
+Iowa,gte2_HPV_fem,62.3,8.2
+Kansas,gte2_HPV_fem,43.6,8.6
+Missouri,gte2_HPV_fem,43.4,10.4
+Nebraska,gte2_HPV_fem,55.5,8.5
+Colorado,gte2_HPV_fem,57.7,8.6
+Montana,gte2_HPV_fem,41.8,8.3
+North Dakota,gte2_HPV_fem,60.9,9.0
+South Dakota,gte2_HPV_fem,42.3,8.9
+Utah,gte2_HPV_fem,35.9,8.8
+Wyoming,gte2_HPV_fem,37.6,9.4
+Arizona,gte2_HPV_fem,56.1,8.1
+California,gte2_HPV_fem,59.7,9.9
+Hawaii,gte2_HPV_fem,64.1,8.4
+Nevada,gte2_HPV_fem,57.6,9.0
+Alaska,gte2_HPV_fem,46.3,8.7
+Idaho,gte2_HPV_fem,43.5,9.0
+Oregon,gte2_HPV_fem,55.4,9.0
+Washington,gte2_HPV_fem,55.8,8.4
+Guam,gte2_HPV_fem,50.5,8.3
+Puerto Rico,gte2_HPV_fem,52.7,9.7
+U.S. Virgin Islands,gte2_HPV_fem,25.8,6.9
+Connecticut,gte3_HPV_fem,55.2,9.1
+Maine,gte3_HPV_fem,44.1,8.6
+Massachusetts,gte3_HPV_fem,52.8,9.7
+New Hampshire,gte3_HPV_fem,51.4,10.0
+Rhode Island,gte3_HPV_fem,68.0,7.4
+Vermont,gte3_HPV_fem,54.4,8.4
+New Jersey,gte3_HPV_fem,45.0,8.8
+New York,gte3_HPV_fem,47.3,6.6
+Delaware,gte3_HPV_fem,52.8,9.1
+District of Columbia,gte3_HPV_fem,58.8,9.2
+Maryland,gte3_HPV_fem,43.7,9.3
+Pennsylvania,gte3_HPV_fem,47.8,7.7
+Virginia,gte3_HPV_fem,38.5,11.0
+West Virginia,gte3_HPV_fem,39.2,8.6
+Alabama,gte3_HPV_fem,40.8,9.3
+Florida,gte3_HPV_fem,36.8,9.3
+Georgia,gte3_HPV_fem,32.3,8.4
+Kentucky,gte3_HPV_fem,36.2,8.5
+Mississippi,gte3_HPV_fem,24.4,6.6
+North Carolina,gte3_HPV_fem,37.8,8.7
+South Carolina,gte3_HPV_fem,34.3,8.5
+Tennessee,gte3_HPV_fem,38.9,8.8
+Illinois,gte3_HPV_fem,40.2,6.0
+Indiana,gte3_HPV_fem,30.9,8.0
+Michigan,gte3_HPV_fem,47.2,9.2
+Minnesota,gte3_HPV_fem,44.5,8.8
+Ohio,gte3_HPV_fem,37.8,9.4
+Wisconsin,gte3_HPV_fem,47.3,8.9
+Arkansas,gte3_HPV_fem,34.0,8.4
+Louisiana,gte3_HPV_fem,39.3,8.8
+New Mexico,gte3_HPV_fem,40.6,7.5
+Oklahoma,gte3_HPV_fem,32.2,9.1
+Texas,gte3_HPV_fem,40.9,5.0
+Iowa,gte3_HPV_fem,49.8,8.6
+Kansas,gte3_HPV_fem,31.7,8.0
+Missouri,gte3_HPV_fem,31.5,9.7
+Nebraska,gte3_HPV_fem,48.2,8.6
+Colorado,gte3_HPV_fem,46.0,8.7
+Montana,gte3_HPV_fem,34.8,8.0
+North Dakota,gte3_HPV_fem,47.1,9.1
+South Dakota,gte3_HPV_fem,32.4,8.7
+Utah,gte3_HPV_fem,24.6,7.7
+Wyoming,gte3_HPV_fem,26.5,8.7
+Arizona,gte3_HPV_fem,44.2,8.3
+California,gte3_HPV_fem,48.4,9.9
+Hawaii,gte3_HPV_fem,52.4,8.8
+Nevada,gte3_HPV_fem,42.5,9.2
+Alaska,gte3_HPV_fem,36.9,8.4
+Idaho,gte3_HPV_fem,30.3,8.2
+Oregon,gte3_HPV_fem,48.9,9.0
+Washington,gte3_HPV_fem,45.1,8.4
+Guam,gte3_HPV_fem,37.0,7.9
+Puerto Rico,gte3_HPV_fem,42.0,9.4
+U.S. Virgin Islands,gte3_HPV_fem,16.4,5.9
+Connecticut,gte1_HPV_m,65.3,7.8
+Maine,gte1_HPV_m,65.8,7.9
+Massachusetts,gte1_HPV_m,63.0,8.8
+New Hampshire,gte1_HPV_m,69.8,7.9
+Rhode Island,gte1_HPV_m,80.6,5.8
+Vermont,gte1_HPV_m,66.1,7.6
+New Jersey,gte1_HPV_m,50.9,8.8
+New York,gte1_HPV_m,60.3,6.1
+Delaware,gte1_HPV_m,62.9,7.6
+District of Columbia,gte1_HPV_m,73.0,7.8
+Maryland,gte1_HPV_m,55.0,9.4
+Pennsylvania,gte1_HPV_m,55.9,7.1
+Virginia,gte1_HPV_m,40.1,10.6
+West Virginia,gte1_HPV_m,45.3,8.5
+Alabama,gte1_HPV_m,39.4,8.6
+Florida,gte1_HPV_m,45.3,9.9
+Georgia,gte1_HPV_m,51.0,8.5
+Kentucky,gte1_HPV_m,34.8,8.2
+Mississippi,gte1_HPV_m,38.9,8.9
+North Carolina,gte1_HPV_m,48.0,8.6
+South Carolina,gte1_HPV_m,35.1,8.3
+Tennessee,gte1_HPV_m,38.2,8.9
+Illinois,gte1_HPV_m,44.3,6.3
+Indiana,gte1_HPV_m,43.2,9.0
+Michigan,gte1_HPV_m,52.3,8.3
+Minnesota,gte1_HPV_m,57.1,8.7
+Ohio,gte1_HPV_m,43.7,9.0
+Wisconsin,gte1_HPV_m,46.4,8.1
+Arkansas,gte1_HPV_m,44.2,8.1
+Louisiana,gte1_HPV_m,49.5,7.9
+New Mexico,gte1_HPV_m,54.3,8.5
+Oklahoma,gte1_HPV_m,52.9,8.9
+Texas,gte1_HPV_m,41.4,4.8
+Iowa,gte1_HPV_m,48.0,8.7
+Kansas,gte1_HPV_m,36.0,8.1
+Missouri,gte1_HPV_m,44.7,9.8
+Nebraska,gte1_HPV_m,54.3,7.9
+Colorado,gte1_HPV_m,63.2,8.4
+Montana,gte1_HPV_m,46.0,8.0
+North Dakota,gte1_HPV_m,62.3,8.9
+South Dakota,gte1_HPV_m,39.2,8.5
+Utah,gte1_HPV_m,40.9,8.9
+Wyoming,gte1_HPV_m,37.1,8.8
+Arizona,gte1_HPV_m,51.3,8.2
+California,gte1_HPV_m,58.5,9.8
+Hawaii,gte1_HPV_m,62.5,8.0
+Nevada,gte1_HPV_m,44.5,8.8
+Alaska,gte1_HPV_m,41.6,8.5
+Idaho,gte1_HPV_m,44.2,8.9
+Oregon,gte1_HPV_m,58.6,8.4
+Washington,gte1_HPV_m,46.8,8.0
+Guam,gte1_HPV_m,52.2,7.8
+Puerto Rico,gte1_HPV_m,68.1,8.6
+U.S. Virgin Islands,gte1_HPV_m,35.5,7.1
+Connecticut,gte2_HPV_m,58.2,8.1
+Maine,gte2_HPV_m,58.7,8.3
+Massachusetts,gte2_HPV_m,50.9,9.1
+New Hampshire,gte2_HPV_m,55.1,9.0
+Rhode Island,gte2_HPV_m,66.6,7.1
+Vermont,gte2_HPV_m,56.9,7.9
+New Jersey,gte2_HPV_m,41.4,8.7
+New York,gte2_HPV_m,49.4,6.1
+Delaware,gte2_HPV_m,53.2,8.0
+District of Columbia,gte2_HPV_m,57.6,8.9
+Maryland,gte2_HPV_m,46.6,9.5
+Pennsylvania,gte2_HPV_m,48.2,7.1
+Virginia,gte2_HPV_m,32.0,9.9
+West Virginia,gte2_HPV_m,36.6,8.3
+Alabama,gte2_HPV_m,30.3,8.3
+Florida,gte2_HPV_m,33.2,9.1
+Georgia,gte2_HPV_m,42.5,8.4
+Kentucky,gte2_HPV_m,25.2,7.5
+Mississippi,gte2_HPV_m,29.6,8.5
+North Carolina,gte2_HPV_m,40.3,8.5
+South Carolina,gte2_HPV_m,26.4,7.7
+Tennessee,gte2_HPV_m,26.0,8.1
+Illinois,gte2_HPV_m,34.3,6.0
+Indiana,gte2_HPV_m,34.3,8.6
+Michigan,gte2_HPV_m,40.2,8.2
+Minnesota,gte2_HPV_m,36.2,8.3
+Ohio,gte2_HPV_m,32.0,8.1
+Wisconsin,gte2_HPV_m,42.1,8.1
+Arkansas,gte2_HPV_m,28.9,7.2
+Louisiana,gte2_HPV_m,39.1,7.8
+New Mexico,gte2_HPV_m,49.9,8.5
+Oklahoma,gte2_HPV_m,40.1,9.0
+Texas,gte2_HPV_m,32.9,4.4
+Iowa,gte2_HPV_m,37.0,8.2
+Kansas,gte2_HPV_m,26.3,7.4
+Missouri,gte2_HPV_m,33.7,9.5
+Nebraska,gte2_HPV_m,46.9,7.8
+Colorado,gte2_HPV_m,52.7,9.0
+Montana,gte2_HPV_m,33.3,7.7
+North Dakota,gte2_HPV_m,53.1,9.1
+South Dakota,gte2_HPV_m,28.6,7.8
+Utah,gte2_HPV_m,33.7,8.7
+Wyoming,gte2_HPV_m,30.8,8.5
+Arizona,gte2_HPV_m,40.6,8.2
+California,gte2_HPV_m,41.8,9.7
+Hawaii,gte2_HPV_m,50.2,8.4
+Nevada,gte2_HPV_m,31.9,8.1
+Alaska,gte2_HPV_m,30.3,7.8
+Idaho,gte2_HPV_m,36.4,8.6
+Oregon,gte2_HPV_m,48.2,8.7
+Washington,gte2_HPV_m,41.2,7.8
+Guam,gte2_HPV_m,38.0,7.6
+Puerto Rico,gte2_HPV_m,44.3,9.1
+U.S. Virgin Islands,gte2_HPV_m,18.6,5.5
+Connecticut,gte3_HPV_m,42.0,8.3
+Maine,gte3_HPV_m,46.7,8.4
+Massachusetts,gte3_HPV_m,35.2,8.5
+New Hampshire,gte3_HPV_m,47.1,9.1
+Rhode Island,gte3_HPV_m,58.1,7.4
+Vermont,gte3_HPV_m,41.1,7.8
+New Jersey,gte3_HPV_m,30.9,8.3
+New York,gte3_HPV_m,38.1,5.8
+Delaware,gte3_HPV_m,43.0,8.0
+District of Columbia,gte3_HPV_m,40.9,8.7
+Maryland,gte3_HPV_m,31.3,8.9
+Pennsylvania,gte3_HPV_m,38.3,6.9
+Virginia,gte3_HPV_m,25.7,9.3
+West Virginia,gte3_HPV_m,27.1,7.6
+Alabama,gte3_HPV_m,22.6,7.9
+Florida,gte3_HPV_m,19.8,6.9
+Georgia,gte3_HPV_m,27.5,7.6
+Kentucky,gte3_HPV_m,17.1,6.1
+Mississippi,gte3_HPV_m,21.4,8.0
+North Carolina,gte3_HPV_m,29.8,8.0
+South Carolina,gte3_HPV_m,21.0,7.5
+Tennessee,gte3_HPV_m,16.0,6.7
+Illinois,gte3_HPV_m,26.8,5.6
+Indiana,gte3_HPV_m,27.5,8.1
+Michigan,gte3_HPV_m,28.6,7.2
+Minnesota,gte3_HPV_m,22.4,6.6
+Ohio,gte3_HPV_m,21.0,6.7
+Wisconsin,gte3_HPV_m,33.5,7.8
+Arkansas,gte3_HPV_m,16.4,5.8
+Louisiana,gte3_HPV_m,30.5,7.4
+New Mexico,gte3_HPV_m,40.3,8.2
+Oklahoma,gte3_HPV_m,35.7,8.9
+Texas,gte3_HPV_m,24.0,3.8
+Iowa,gte3_HPV_m,23.9,7.2
+Kansas,gte3_HPV_m,18.5,6.7
+Missouri,gte3_HPV_m,25.1,9.1
+Nebraska,gte3_HPV_m,32.2,7.2
+Colorado,gte3_HPV_m,37.1,8.8
+Montana,gte3_HPV_m,21.7,6.8
+North Dakota,gte3_HPV_m,38.4,8.6
+South Dakota,gte3_HPV_m,22.0,7.2
+Utah,gte3_HPV_m,19.9,7.6
+Wyoming,gte3_HPV_m,18.8,6.9
+Arizona,gte3_HPV_m,27.0,7.3
+California,gte3_HPV_m,29.5,9.0
+Hawaii,gte3_HPV_m,36.2,8.1
+Nevada,gte3_HPV_m,23.7,7.2
+Alaska,gte3_HPV_m,18.8,6.4
+Idaho,gte3_HPV_m,26.4,7.9
+Oregon,gte3_HPV_m,35.7,8.5
+Washington,gte3_HPV_m,28.0,7.1
+Guam,gte3_HPV_m,22.4,6.4
+Puerto Rico,gte3_HPV_m,30.8,8.7
+U.S. Virgin Islands,gte3_HPV_m,11.8,4.6
